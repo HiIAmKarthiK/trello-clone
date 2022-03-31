@@ -1,0 +1,35 @@
+html,
+body {
+  overflow-y: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-sb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.p-p5 {
+  padding: 0.5rem;
+}
+
+.p1 {
+  padding: 1rem;
+}
+
+// trash color
+.trash-color {
+  color: $trash_icon_color;
+}

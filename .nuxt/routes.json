@@ -1,0 +1,23 @@
+[
+  {
+    "name": "auth",
+    "path": "/auth",
+    "component": "/home/karthik/My Projects/Nuxt/trello-clone/pages/auth/index.vue",
+    "chunkName": "pages/auth/index",
+    "_name": "_1f37cf8e"
+  },
+  {
+    "name": "board-id",
+    "path": "/board/:id",
+    "component": "/home/karthik/My Projects/Nuxt/trello-clone/pages/board/_id/index.vue",
+    "chunkName": "pages/board/_id/index",
+    "_name": "_6983a9fe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/karthik/My Projects/Nuxt/trello-clone/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7519da82"
+  }
+]

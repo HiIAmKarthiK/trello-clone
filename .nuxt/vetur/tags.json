@@ -1,0 +1,17 @@
+{
+  "BoardsBoard": {
+    "description": "Auto imported from components/Boards/Board.vue"
+  },
+  "BoardsList": {
+    "description": "Auto imported from components/Boards/BoardsList.vue"
+  },
+  "CardsCard": {
+    "description": "Auto imported from components/Cards/Card.vue"
+  },
+  "ListsList": {
+    "description": "Auto imported from components/Lists/List.vue"
+  },
+  "UINav": {
+    "description": "Auto imported from components/UI/Nav.vue"
+  }
+}
